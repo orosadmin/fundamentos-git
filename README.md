@@ -6,3 +6,4 @@ Quero um merge sem commit e sem ff
 Pequena Alteração aqui para dar conflito
 Quero que dê conflito
 Primeira Mudança do Colega
+Segunda Mudança do Colega
